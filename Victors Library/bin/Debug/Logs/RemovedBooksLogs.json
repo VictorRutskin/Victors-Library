@@ -1,0 +1,167 @@
+[
+  {
+    "$type": "Victors_Library.Book_Class, Victors Library",
+    "ID": 720173168,
+    "Genres": "Religion,",
+    "Name": "THE FORBIDDEN ONE",
+    "Author": "Unknown",
+    "NumPages": 994578,
+    "Price": 100.0,
+    "LastEditDate": "22-Oct-22 16:08:09",
+    "Color": "#FF00008B"
+  },
+  {
+    "$type": "Victors_Library.Book_Class, Victors Library",
+    "ID": 189598220,
+    "Genres": "Fantasy,",
+    "Name": "query",
+    "Author": "bob uncle",
+    "NumPages": 33,
+    "Price": 22.0,
+    "LastEditDate": "22-Oct-22 16:21:24",
+    "Color": "#FFFFFFFF"
+  },
+  {
+    "$type": "Victors_Library.Book_Class, Victors Library",
+    "ID": 110853252,
+    "Genres": "Fantasy,Biography,",
+    "Name": "Some Book",
+    "Author": "fella known",
+    "NumPages": 89,
+    "Price": 45.0,
+    "LastEditDate": "23-Oct-22 11:44:11",
+    "Color": "#FFFFE4C4"
+  },
+  {
+    "$type": "Victors_Library.Book_Class, Victors Library",
+    "ID": 504851075,
+    "Genres": "Fantasy,Romance,",
+    "Name": "Namer",
+    "Author": "Authors",
+    "NumPages": 2,
+    "Price": 1.0,
+    "LastEditDate": "19-Dec-22 16:41:47",
+    "Color": "#FFF5F5DC"
+  },
+  {
+    "$type": "Victors_Library.Book_Class, Victors Library",
+    "ID": 805360822,
+    "Genres": "Romance,Cooking,",
+    "Name": "Namer",
+    "Author": "Authors",
+    "NumPages": 2,
+    "Price": 1.0,
+    "LastEditDate": "19-Dec-22 16:42:00",
+    "Color": "#FFF5F5DC"
+  },
+  {
+    "$type": "Victors_Library.Book_Class, Victors Library",
+    "ID": 729532663,
+    "Genres": "Crime,",
+    "Name": "r",
+    "Author": "r",
+    "NumPages": 5,
+    "Price": 5.0,
+    "LastEditDate": "19-Dec-22 16:42:58",
+    "Color": "#FFFFFFFF"
+  },
+  {
+    "$type": "Victors_Library.Book_Class, Victors Library",
+    "ID": 805360822,
+    "Genres": "Romance,Cooking,",
+    "Name": "Namer",
+    "Author": "Authors",
+    "NumPages": 2,
+    "Price": 1.0,
+    "LastEditDate": "19-Dec-22 16:42:00",
+    "Color": "#FFF5F5DC"
+  },
+  {
+    "$type": "Victors_Library.Manga_Class, Victors Library",
+    "ID": 197934991,
+    "Genres": "Manga,Horror,Science,",
+    "Name": "69420niggers",
+    "Author": "Ron foigel",
+    "NumPages": 69,
+    "Price": 210000.0,
+    "LastEditDate": "11-Nov-22 19:19:07",
+    "Color": "#FF00FFFF"
+  },
+  {
+    "$type": "Victors_Library.Manga_Class, Victors Library",
+    "ID": 712371033,
+    "Genres": "Manga,Horror,Science,",
+    "Name": "69420niggers",
+    "Author": "Ron foigel",
+    "NumPages": 69,
+    "Price": 210000.0,
+    "LastEditDate": "11-Nov-22 19:19:22",
+    "Color": "#FF00FFFF"
+  },
+  {
+    "$type": "Victors_Library.Manga_Class, Victors Library",
+    "ID": 712371033,
+    "Genres": "Manga,Horror,Science,",
+    "Name": "69420niggers",
+    "Author": "Ron foigel",
+    "NumPages": 69,
+    "Price": 210000.0,
+    "LastEditDate": "11-Nov-22 19:19:22",
+    "Color": "#FF00FFFF"
+  },
+  {
+    "$type": "Victors_Library.Manga_Class, Victors Library",
+    "ID": 208407534,
+    "Genres": "Manga,Fantasy,Romance,",
+    "Name": "my gay porn adiction",
+    "Author": "gay porn fan",
+    "NumPages": 69,
+    "Price": 690.0,
+    "LastEditDate": "11-Nov-22 19:23:48",
+    "Color": "#FFFF7F50"
+  },
+  {
+    "$type": "Victors_Library.Manga_Class, Victors Library",
+    "ID": 617148625,
+    "Genres": "Manga,Fantasy,Romance,",
+    "Name": "my gay porn adiction",
+    "Author": "victor ",
+    "NumPages": 69,
+    "Price": 690.0,
+    "LastEditDate": "11-Nov-22 19:24:24",
+    "Color": "#FFFF7F50"
+  },
+  {
+    "$type": "Victors_Library.Manga_Class, Victors Library",
+    "ID": 617148625,
+    "Genres": "Manga,Fantasy,Romance,",
+    "Name": "my gay porn adiction",
+    "Author": "victor ",
+    "NumPages": 69,
+    "Price": 690.0,
+    "LastEditDate": "11-Nov-22 19:24:24",
+    "Color": "#FFFF7F50"
+  },
+  {
+    "$type": "Victors_Library.Book_Class, Victors Library",
+    "ID": 171448555,
+    "Genres": "Romance,Science,",
+    "Name": "Na",
+    "Author": "Authors",
+    "NumPages": 2,
+    "Price": 2.0,
+    "LastEditDate": "19-Dec-22 16:42:13",
+    "Color": "#FFF5F5DC"
+  },
+  {
+    "$type": "Victors_Library.Book_Class, Victors Library",
+    "ID": 924788188,
+    "Genres": "Horror,",
+    "Name": "kekma",
+    "Author": "Authorfd",
+    "NumPages": 3,
+    "Price": 3.0,
+    "LastEditDate": "19-Dec-22 16:54:18",
+    "Color": "#FFFFE4C4"
+  }
+]

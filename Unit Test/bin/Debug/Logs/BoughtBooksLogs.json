@@ -1,0 +1,24 @@
+[
+  {
+    "$type": "Victors_Library.Book_Class, Victors Library",
+    "ID": 580757977,
+    "Genres": "Fantasy,Adventure,Comedy,",
+    "Name": "The Secret Tale",
+    "Author": "Kendrick Jammal",
+    "NumPages": 24,
+    "Price": 89.0,
+    "LastEditDate": "22-Oct-22 16:19:32",
+    "Color": "#FF00BFFF"
+  },
+  {
+    "$type": "Victors_Library.Book_Class, Victors Library",
+    "ID": 189598220,
+    "Genres": "Fantasy,",
+    "Name": "query",
+    "Author": "bob uncle",
+    "NumPages": 33,
+    "Price": 22.0,
+    "LastEditDate": "22-Oct-22 16:21:24",
+    "Color": "#FFFFFFFF"
+  }
+]
