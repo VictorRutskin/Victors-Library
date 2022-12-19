@@ -14,4 +14,4 @@ I do not own any art in this project.
 - Browse selection of books by genre,category etc
 
 ## Requirements
-Updated Visual Studio:
+Updated Visual Studio
