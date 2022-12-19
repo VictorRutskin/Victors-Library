@@ -1,6 +1,6 @@
 # Victors Library
 
-Welcome to Victors Library! The library simulates a book store platform that offers a wide selection of books for sale. Our library is easy to use and allows you to add, edit, and remove books from our collection. We also provide detailed logs of books purchased, edited, and more.
+The library simulates a book store platform that offers a wide selection of books for sale. Our library is easy to use and allows you to add, edit, and remove books from our collection. We also provide detailed logs of books purchased, edited, and more.
 
 
 Disclaimer
