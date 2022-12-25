@@ -1,7 +1,5 @@
 # Victors Library
-
 The library simulates a book store platform that offers a wide selection of books for sale. Our library is easy to use and allows you to add, edit, and remove books from our collection. We also provide detailed logs of books purchased, edited, and more.
-
 
 Disclaimer
 I do not own any art in this project.
@@ -15,3 +13,6 @@ I do not own any art in this project.
 
 ## Requirements
 Updated Visual Studio
+
+![alt text](https://github.com/lashaka/Victors-Library/blob/main/LibraryExample.png)
+
