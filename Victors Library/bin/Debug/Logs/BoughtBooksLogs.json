@@ -44,50 +44,6 @@
     "Color": "#FF000000"
   },
   {
-    "$type": "Victors_Library.Manga_Class, Victors Library",
-    "ID": 197934991,
-    "Genres": "Manga,Horror,Science,",
-    "Name": "69420niggers",
-    "Author": "Ron foigel",
-    "NumPages": 69,
-    "Price": 210000.0,
-    "LastEditDate": "11-Nov-22 19:19:07",
-    "Color": "#FF00FFFF"
-  },
-  {
-    "$type": "Victors_Library.Manga_Class, Victors Library",
-    "ID": 712371033,
-    "Genres": "Manga,Horror,Science,",
-    "Name": "69420niggers",
-    "Author": "Ron foigel",
-    "NumPages": 69,
-    "Price": 210000.0,
-    "LastEditDate": "11-Nov-22 19:19:22",
-    "Color": "#FF00FFFF"
-  },
-  {
-    "$type": "Victors_Library.Manga_Class, Victors Library",
-    "ID": 197934991,
-    "Genres": "Manga,Horror,Science,",
-    "Name": "69420niggers",
-    "Author": "Ron foigel",
-    "NumPages": 69,
-    "Price": 210000.0,
-    "LastEditDate": "11-Nov-22 19:19:07",
-    "Color": "#FF00FFFF"
-  },
-  {
-    "$type": "Victors_Library.Manga_Class, Victors Library",
-    "ID": 712371033,
-    "Genres": "Manga,Horror,Science,",
-    "Name": "69420niggers",
-    "Author": "Ron foigel",
-    "NumPages": 69,
-    "Price": 210000.0,
-    "LastEditDate": "11-Nov-22 19:19:22",
-    "Color": "#FF00FFFF"
-  },
-  {
     "$type": "Victors_Library.Book_Class, Victors Library",
     "ID": 312172217,
     "Genres": "Fantasy,",
