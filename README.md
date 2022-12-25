@@ -14,5 +14,5 @@ I do not own any art in this project.
 ## Requirements
 Updated Visual Studio
 
-![alt text](https://github.com/lashaka/Victors-Library/blob/main/LibraryExample.png)
+![alt text](https://github.com/lashaka/The-Monster-Slayer/blob/main/TheMonsterSlayerExample.png)
 
