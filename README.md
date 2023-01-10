@@ -12,7 +12,10 @@ I do not own any art in this project.
 - Browse selection of books by genre,category etc
 
 ## Requirements
-Updated Visual Studio
+- Windows operating system
+- .NET Framework 4.6 or higher
+
+<br>
 
 ![alt text](https://github.com/lashaka/Victors-Library/blob/main/LibraryExample.png)
 
