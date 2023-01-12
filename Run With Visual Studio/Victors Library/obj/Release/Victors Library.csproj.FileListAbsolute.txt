@@ -1,0 +1,68 @@
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\bin\Release\Victors Library.exe.config
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\bin\Release\Victors Library.exe
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\bin\Release\Victors Library.pdb
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\bin\Release\Microsoft.Xaml.Behaviors.dll
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\bin\Release\Newtonsoft.Json.dll
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\bin\Release\WpfAnimatedGif.dll
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\bin\Release\Microsoft.Xaml.Behaviors.pdb
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\bin\Release\Microsoft.Xaml.Behaviors.xml
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\bin\Release\Newtonsoft.Json.xml
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\bin\Release\WpfAnimatedGif.pdb
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\bin\Release\WpfAnimatedGif.xml
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\Victors Library.csproj.AssemblyReference.cache
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\Victors Library.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\Colorpicker.baml
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\Colorpicker.g.cs
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\MainWindow.g.cs
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\LibraryWindow.g.cs
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\AddBook.g.cs
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\LogsWindow.g.cs
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\App.g.cs
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\Victors Library_MarkupCompile.cache
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\Victors Library_MarkupCompile.lref
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\MainWindow.baml
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\LibraryWindow.baml
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\AddBook.baml
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\LogsWindow.baml
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\Victors Library.g.resources
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\Victors_Library.Properties.Resources.resources
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\Victors Library.csproj.GenerateResource.cache
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\Victors Library.csproj.CoreCompileInputs.cache
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\Victors Library.csproj.CopyComplete
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\Victors Library.exe
+D:\Projects\Visual studio\Projects of mine\Library\Victors Library\Victors Library\Victors Library\Victors Library\obj\Release\Victors Library.pdb
+D:\Projects\Git\My Git\Victor-Library\Victors Library\bin\Release\Victors Library.exe.config
+D:\Projects\Git\My Git\Victor-Library\Victors Library\bin\Release\Victors Library.exe
+D:\Projects\Git\My Git\Victor-Library\Victors Library\bin\Release\Victors Library.pdb
+D:\Projects\Git\My Git\Victor-Library\Victors Library\bin\Release\Microsoft.Xaml.Behaviors.dll
+D:\Projects\Git\My Git\Victor-Library\Victors Library\bin\Release\Newtonsoft.Json.dll
+D:\Projects\Git\My Git\Victor-Library\Victors Library\bin\Release\WpfAnimatedGif.dll
+D:\Projects\Git\My Git\Victor-Library\Victors Library\bin\Release\Microsoft.Xaml.Behaviors.pdb
+D:\Projects\Git\My Git\Victor-Library\Victors Library\bin\Release\Microsoft.Xaml.Behaviors.xml
+D:\Projects\Git\My Git\Victor-Library\Victors Library\bin\Release\Newtonsoft.Json.xml
+D:\Projects\Git\My Git\Victor-Library\Victors Library\bin\Release\WpfAnimatedGif.pdb
+D:\Projects\Git\My Git\Victor-Library\Victors Library\bin\Release\WpfAnimatedGif.xml
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\Victors Library.csproj.AssemblyReference.cache
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\Victors Library.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\Colorpicker.baml
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\Colorpicker.g.cs
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\MainWindow.g.cs
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\LibraryWindow.g.cs
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\AddBook.g.cs
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\LogsWindow.g.cs
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\App.g.cs
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\Victors Library_MarkupCompile.cache
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\Victors Library_MarkupCompile.lref
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\MainWindow.baml
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\LibraryWindow.baml
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\AddBook.baml
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\LogsWindow.baml
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\Victors Library.g.resources
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\Victors_Library.Properties.Resources.resources
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\Victors Library.csproj.GenerateResource.cache
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\Victors Library.csproj.CoreCompileInputs.cache
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\Victors Library.csproj.CopyComplete
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\Victors Library.exe
+D:\Projects\Git\My Git\Victor-Library\Victors Library\obj\Release\Victors Library.pdb
