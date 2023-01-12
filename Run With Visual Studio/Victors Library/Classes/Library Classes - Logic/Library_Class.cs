@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Windows.Media;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using System.Reflection;
 using Victors_Library.Classes;
 
 namespace Victors_Library

@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Windows.Media;
 using Victors_Library.Classes;
-using static Victors_Library.Library_Class;
 
 namespace Victors_Library
 {

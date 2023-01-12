@@ -2,10 +2,6 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Victors_Library.Classes;
 
 namespace Victors_Library
 {
