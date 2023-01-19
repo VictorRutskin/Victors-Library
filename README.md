@@ -17,5 +17,5 @@ I do not own any art in this project.
 
 <br>
 
-![alt text](https://github.com/lashaka/Victors-Library/blob/main/LibraryExample.png)
+![alt text](https://github.com/Lashaka/Lashaka/blob/main/Images%20to%20present%20projects/Victors%20Library%20Images/LibraryExample.png)
 
